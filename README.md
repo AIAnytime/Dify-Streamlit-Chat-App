@@ -1,4 +1,4 @@
 # Dify-Streamlit-Chat-App
 Dify Streamlit Chat App
-![YT Video](https://ibb.co/WBYd4kx)
+![YT Video](https://i.ibb.co/kqWrs4H/AI-Chatbot.png)
 
